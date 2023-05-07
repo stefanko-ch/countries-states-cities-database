@@ -1,6 +1,1 @@
 .DS_Store
-scripts/vendor/vendor
-scripts/vendor/data/*
-issues/
-csc/
-base.php
